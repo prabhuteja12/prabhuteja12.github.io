@@ -11,7 +11,7 @@ redirect_from:
 **Hi! I'm Prabhu Teja,**
 
 I'm a Research Assistant at [Idiap Research Institute](https://www.idiap.ch) and a PhD student at
-[EPFL](https://www.epfl.ch). 
+[EPFL](https://www.epfl.ch).
 
 ## About Me!
 
@@ -22,3 +22,7 @@ My research is on the topic of Semantic Segmentation. In particular, I work on t
 I've had a variety of experiences in the past. I started off in online handwriting recognition, moved on to medical imaging processing and most recently, worked on advertisement domain problems during my stint at Amazon.
 
 Here is my [CV](files/resume.pdf). 
+
+
+## Contact me!
+I can be reached, most reliably through email at prabhu dot teja at idiap.ch.
