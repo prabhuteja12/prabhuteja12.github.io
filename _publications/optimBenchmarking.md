@@ -3,6 +3,7 @@ title: "Optimizer Benchmarking Needs to Account for Hyperparameter Tuning"
 collection: publications
 permalink: /publication/optimizer_benchmarking
 venue: 'International Conference on Machine Learning'
+date: 2020-02-01
 # paperurl: 'http://prabhuteja12.github.io/files/sivaprasad20a.pdf'
 # citation: 'Sivaprasad, Prabhu Teja, Florian Mai, Thijs Vogels, Martin Jaggi, and Francois Fleuret. "Optimizer benchmarking needs to account for hyperparameter tuning." In International Conference on Machine Learning, pp. 9036-9045. PMLR, 2020.'
 ---
