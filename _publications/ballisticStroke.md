@@ -1,7 +1,7 @@
 ---
 title: "A Ballistic Stroke Representation of Online Handwriting for Recognition"
 collection: publications
-permalink: /publication/ballistic_stroke
+permalink: /publications/ballistic_stroke
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013-10-01
 venue: 'International Conference on Document Analysis & Recognition'

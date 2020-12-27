@@ -1,7 +1,7 @@
 ---
 title: "Optimizer Benchmarking Needs to Account for Hyperparameter Tuning"
 collection: publications
-permalink: /publication/optimizer_benchmarking
+permalink: /publications/optimizer_benchmarking
 venue: 'International Conference on Machine Learning'
 date: 2020-02-01
 # paperurl: 'http://prabhuteja12.github.io/files/sivaprasad20a.pdf'
