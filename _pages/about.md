@@ -23,6 +23,10 @@ I've had a variety of experiences in the past. I started off in online handwriti
 
 Here is my [CV](files/resume.pdf). 
 
+## News
+- Paper accepted at CVPR'21 on Model Adaptation for Semantic Segmentation.
+- TA for EE-559 (Deep Learning) by Dr. Fran&ccedil;ois Fleuret at EPFL for Spring 2021.
+
 
 ## Contact me!
 I can be reached, most reliably through email at prabhu dot teja at idiap.ch.
