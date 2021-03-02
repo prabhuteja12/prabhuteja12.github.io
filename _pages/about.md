@@ -21,7 +21,7 @@ My research is on the topic of Semantic Segmentation. In particular, I work on t
 
 I've had a variety of experiences in the past. I started off in online handwriting recognition, moved on to medical imaging processing and most recently, worked on advertisement domain problems during my stint at Amazon.
 
-Here is my [CV](files/resume.pdf). 
+Here is my [CV](/cv). 
 
 ## News
 - Paper accepted at CVPR'21 on Model Adaptation for Semantic Segmentation.
