@@ -9,7 +9,7 @@ venue: 'International Conference on Document Analysis & Recognition'
 # citation: 'Teja, S. Prabhu, and Anoop M. Namboodiri. "A ballistic stroke representation of online handwriting for recognition." In 2013 12th International Conference on Document Analysis and Recognition, pp. 857-861. IEEE, 2013.'
 ---
 
-[Download paper here](http://prabhuteja12.github.io/files/PrabhuTeja2013Ballistic.pdf)
+[Download paper here](./files/PrabhuTeja2013Ballistic.pdf)
 
 ```{bibtex}
 @inproceedings{teja2013ballistic,
