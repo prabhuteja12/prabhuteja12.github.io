@@ -11,7 +11,7 @@ venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 <!-- Download paper [here](../files/sivaprasad21a-cvpr.pdf) and the supplementary material [here](../files/sivaprasad21a-cvpr-supp.pdf) -->
 Download paper [here](http://publications.idiap.ch/downloads/papers/2021/Sivaprasad_CVPR_2021.pdf){:target="_blank"}.
 
-Code coming soon!
+Code is available [here](https://github.com/idiap/model-uncertainty-for-adaptation){:target="_blank"}.
 
 ## Abstract 
 Traditional methods for Unsupervised Domain Adaptation (UDA) targeting semantic segmentation exploit information common
