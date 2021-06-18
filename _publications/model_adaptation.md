@@ -25,3 +25,18 @@ accomplish this in two ways: minimizing the entropy of the predicted posterior, 
 the feature representation. We show the efficacy of our method on the transfer of segmentation from computer generated
 images to real-world driving images, and transfer between data collected in different cities, and surprisingly reach
 performance comparable with that of the methods that have access to source data.
+
+## Bibtex
+
+If you find our work useful, consider citing us as follows. 
+
+```{bibtex}
+@InProceedings{S_2021_CVPR,
+    author    = {S, Prabhu Teja and Fleuret, Francois},
+    title     = {Uncertainty Reduction for Model Adaptation in Semantic Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {9613-9623}
+}
+```
