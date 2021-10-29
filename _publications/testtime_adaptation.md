@@ -19,3 +19,7 @@ inference time i.e., we do not change the training process, but quickly adapt th
 domain shift. For this, we propose to enforce consistency of predictions of data sampled in the vicinity of test sample
 on the image manifold. On a host of test scenarios like dealing with corruptions (CIFAR-10-C and CIFAR-100-C), and
 domain adaptation (VisDA-C), our method is at par or significantly outperforms previous methods.
+
+## Code
+
+The code for the experiments will be released very soon [here](https://github.com/prabhuteja12/pest){:target="_blank"}.
