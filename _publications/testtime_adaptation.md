@@ -22,4 +22,4 @@ domain adaptation (VisDA-C), our method is at par or significantly outperforms p
 
 ## Code
 
-The code for the experiments will be released very soon [here](https://github.com/prabhuteja12/pest){:target="_blank"}.
+The code for the experiments has been released [here](https://github.com/prabhuteja12/pest){:target="_blank"}.
