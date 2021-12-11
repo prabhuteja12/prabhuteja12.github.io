@@ -8,7 +8,7 @@ venue: 'NeurIPS 2021 Workshop on Distribution Shifts (to be presented)'
 # citation: 'Teja, S. Prabhu, and Anoop M. Namboodiri. "A ballistic stroke representation of online handwriting for recognition." In 2013 12th International Conference on Document Analysis and Recognition, pp. 857-861. IEEE, 2013.'
 ---
 
-Download paper [here](https://arxiv.org/pdf/2110.10232.pdf){:target="_blank"}.
+Download paper [here](https://openreview.net/forum?id=GbBeI5z86uD){:target="_blank"}.
 
 ## Abstract
 
