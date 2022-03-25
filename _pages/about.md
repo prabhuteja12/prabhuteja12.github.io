@@ -25,6 +25,9 @@ Here is my [CV](/cv).
 
 ## News
 
+- **I'm on the job market for industrial research positions to start early next year (2023). Contact me if you think my
+  skills match your needs.**
+- Finished internship, and back to PhD. 
 - Paper accepted at NeurIPS 2021 Workshop on Distribution Shifts on Test time adaptation.
 - Started internship at AWS AI in Berlin working on exciting problems in large scale training.
 - Paper accepted at CVPR'21 on Model Adaptation for Semantic Segmentation.
