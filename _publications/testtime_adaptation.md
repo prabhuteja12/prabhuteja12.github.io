@@ -3,7 +3,7 @@ title: "Test time Adaptation through Perturbation Robustness"
 collection: publications
 permalink: /publications/testtime_robustness
 date: 2021-12-13
-venue: 'NeurIPS 2021 Workshop on Distribution Shifts (to be presented)'
+venue: 'NeurIPS 2021 Workshop on Distribution Shifts'
 # paperurl: 'http://prabhuteja12.github.io/files/PrabhuTeja2013Ballistic.pdf'
 # citation: 'Teja, S. Prabhu, and Anoop M. Namboodiri. "A ballistic stroke representation of online handwriting for recognition." In 2013 12th International Conference on Document Analysis and Recognition, pp. 857-861. IEEE, 2013.'
 ---
