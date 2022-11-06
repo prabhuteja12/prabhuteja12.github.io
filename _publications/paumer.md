@@ -6,7 +6,7 @@ date: 2022-11-01
 venue: 'British Machine Vision Conference (BMVC)'
 ---
 
-Download paper [here](https://publications.idiap.ch/attachments/papers/2022/Courdier_BMVC2022_2022.pdf){:target="_blank"}.
+Download paper [here](../files/courdierBMVC2022.pdf){:target="_blank"}.
 
 
 ## Abstract
