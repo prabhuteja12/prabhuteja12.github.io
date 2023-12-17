@@ -10,24 +10,18 @@ redirect_from:
 
 **Hi! I'm Prabhu Teja,**
 
-I'm a Research Assistant at [Idiap Research Institute](https://www.idiap.ch) and a PhD student at
+I'm a Applied Scientist at AWS, Berlin working with [Giovanni Zappella](https://giovannizappella.github.io/).
+I was previously a Research Assistant at [Idiap Research Institute](https://www.idiap.ch) and a PhD student at
 [EPFL](https://www.epfl.ch).
 
-## About Me!
-
-I'm currently working in the [Machine Learning group](https://www.idiap.ch/en/scientific-research/machine-learning) at [Idiap Research Institute](https://www.idiap.ch) in Martigny, Switzerland. My thesis advisor is [Dr. Fran&ccedil;ois Fleuret](https://fleuret.org/francois).
-
-My research is on the topic of Semantic Segmentation. In particular, I work on the topic of Unsupervised Domain Adaptation for Semantic Segmentation.
-
-I've had a variety of experiences in the past. I started off in online handwriting recognition, moved on to medical imaging processing and most recently, worked on advertisement domain problems during my stint at Amazon.
-
-Here is my [CV](/cv).
+Here is my slightly outdated [CV](/cv).
 
 ## News
 
-- **I'm on the job market for industrial research positions to start early next year (2023). Contact me if you think my
-  skills match your needs.**
-- Finished internship, and back to PhD. 
+- Paper on LoRA for Continual Learning at NeurIPS 2023 Workshop on Distribution Shifts!
+- Started as an _Applied Scientist_ in AWS, Berlin.
+- Defended PhD, now officially a `Doctor`!
+- Finished internship, and back to PhD.
 - Paper accepted at NeurIPS 2021 Workshop on Distribution Shifts on Test time adaptation.
 - Started internship at AWS AI in Berlin working on exciting problems in large scale training.
 - Paper accepted at CVPR'21 on Model Adaptation for Semantic Segmentation.
@@ -35,4 +29,5 @@ Here is my [CV](/cv).
 
 ## Contact me!
 
-I can be reached, most reliably through email at prabhu dot teja at idiap.ch.
+I can be reached, most reliably through email at prabhu|thisisuseless|teja|thisisuseless|12 at gmail. Remove the parts
+that are evidently useless. 
