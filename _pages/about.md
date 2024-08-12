@@ -18,14 +18,13 @@ Here is my slightly outdated [CV](/cv).
 
 ## News
 
+- Paper on the understanding the convergence properties of Local SGD in TMLR! 
 - Paper on LoRA for Continual Learning at NeurIPS 2023 Workshop on Distribution Shifts!
 - Started as an _Applied Scientist_ in AWS, Berlin.
 - Defended PhD, now officially a `Doctor`!
 - Finished internship, and back to PhD.
 - Paper accepted at NeurIPS 2021 Workshop on Distribution Shifts on Test time adaptation.
 - Started internship at AWS AI in Berlin working on exciting problems in large scale training.
-- Paper accepted at CVPR'21 on Model Adaptation for Semantic Segmentation.
-- TA for EE-559 (Deep Learning) by Dr. Fran&ccedil;ois Fleuret at EPFL for Spring 2021.
 
 ## Contact me!
 
