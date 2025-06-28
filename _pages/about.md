@@ -10,7 +10,7 @@ redirect_from:
 
 **Hi! I'm Prabhu Teja,**
 
-I'm a Applied Scientist at AWS, Berlin. I was previously a Research Assistant at [Idiap Research Institute](https://www.idiap.ch) and a PhD student at
+I'm a Applied Scientist at AWS, Berlin working on coding agents, and training verifiers. I was previously a Research Assistant at [Idiap Research Institute](https://www.idiap.ch) and a PhD student at
 [EPFL](https://www.epfl.ch).
 
 Here is my [CV](/cv) -- last updated June 2025.
